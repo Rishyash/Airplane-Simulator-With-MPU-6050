@@ -3,7 +3,7 @@
  * 
  * License: MIT
  */
-
+// Contributed By Mohit Gupta.
 #include "Wire.h"
 #include <MPU6050_light.h>
 
